@@ -34,7 +34,7 @@ try {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cart</title>
+    <title>ตะกร้ารถเข็น</title>
     
     <link rel="icon" href="icon/49cafe_icon.png" type="image/png">
 

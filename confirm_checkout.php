@@ -81,7 +81,7 @@
         }
 
         $clear_cart_stmt -> execute();
-        $_SESSION["success_message"] = "ชำระเงินสำเร็จ";
+        $_SESSION["success_message"] = "ยืนยันออเดอร์สำเร็จ";
 
         $conn -> commit();
 
